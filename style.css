@@ -1,0 +1,59 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+}
+.left{
+    padding-top: 75px;
+    padding-left: 150px;
+    background-color: #01342d;
+    height: 708px;
+    width: 60%;
+    color: white
+}   
+.left h1{
+    font-size: 100px;
+}
+.tala{
+    padding-top: 63px;
+}
+.tala p{
+    font-size: 30px;
+}
+.tala1 {
+    padding-top: 51px;
+}
+.tala1 p{
+    font-size: 30px;
+}
+.tala2 {
+    margin-top: 70px;
+}
+.tala2 a{
+    background-color: yellow;
+    text-decoration: none;
+    color: black;
+    border: 2px solid black;
+    padding:10px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.tala2 a:hover{
+    background-color: azure;
+}
+.right{
+    width: 40%;
+    margin: 0px;
+    padding: 0px;
+   
+}
+.right img{
+    padding-top: 0px;
+    height: 783px;
+}
+@media (min-width:370px)and(max-width:680px){
+   
+}
